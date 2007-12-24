@@ -1,0 +1,4 @@
+content coop content/
+skin    coop standard skin/
+locale  coop en-US locale/en-US/
+overlay chrome://browser/content/browser.xul chrome://coop/content/browser-overlay.xul
